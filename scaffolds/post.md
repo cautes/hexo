@@ -1,7 +1,9 @@
 title: {{ title }}
 date: {{ date }}
-tags:
 categories: 
+tags: 
 ---
+by[齐谐](http://caute.net/about/)
+
 
 <!--more-->

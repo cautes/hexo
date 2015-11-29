@@ -46,6 +46,9 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  所思: t
+  妄谈: s
+  读书: r
 tag_map:
 
 # Date / Time format

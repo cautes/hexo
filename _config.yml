@@ -73,5 +73,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/cautes/cautes.github.io.git
-  branch:
+  branch:master
   message:

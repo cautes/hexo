@@ -14,7 +14,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://caute.net
 root: /
-permalink: :category/:title/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -65,9 +65,9 @@ pagination_dir: page
 
 # hexo sitemap
 sitemap:
-path: sitemap.xml
+  path: sitemap.xml
 baidusitemap:
-path: baidusitemap.xml
+  path: baidusitemap.xml
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
@@ -78,6 +78,6 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/cautes/cautes.github.io.git
+  repo: git@github.com:cautes/cautes.github.io.git
   branch:
   message:

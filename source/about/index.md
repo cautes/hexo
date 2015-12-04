@@ -1,4 +1,4 @@
-title: about
+title: about/
 ---
 * [@齐谐](http://weibo.com/yanzhiao)
 

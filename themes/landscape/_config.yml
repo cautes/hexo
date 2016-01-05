@@ -17,7 +17,7 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-72042404-1
 baidu_tongji: true
 favicon: /favicon.png
 twitter:

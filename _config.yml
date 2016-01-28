@@ -73,7 +73,7 @@ archive_generator:
 
 tag_generator:
   per_page: 100
-
+  
 # hexo sitemap
 sitemap:
   path: sitemap.xml

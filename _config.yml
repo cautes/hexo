@@ -73,6 +73,9 @@ archive_generator:
 
 tag_generator:
   per_page: 100
+
+category_generator: 
+  per_page: 100
   
 # hexo sitemap
 sitemap:

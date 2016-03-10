@@ -76,7 +76,7 @@ tag_generator:
 
 category_generator: 
   per_page: 100
-  
+
 # hexo sitemap
 sitemap:
   path: sitemap.xml

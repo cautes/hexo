@@ -15,6 +15,7 @@ widgets:
 - tagcloud
 - archive
 - recent_posts
+- weixin
 
 # Miscellaneous
 google_analytics: UA-72042404-1
@@ -24,3 +25,7 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+# 配置关注微信公众号
+weixin: http://ww4.sinaimg.cn/small/67ab259fjw1f3im46d1zrj2076076wey.jpg
+

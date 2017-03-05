@@ -4,7 +4,7 @@ categories:
 tags: 
 permalink: 
 ---
-by[齐谐](http://caute.net/about/)
+by [齐谐](http://caute.net/about/)
 
 
 <!--more-->

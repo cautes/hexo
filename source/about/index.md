@@ -6,6 +6,4 @@ title: about
 
 * 欢迎关注微信公众号，搜索 Cautes 或侧边栏扫码。
 
-* 本人博客及微信号文章采用
-  CC Attribution-NonCommercial-NoDerivs 协议
-  必须保留原作者署名，不允许用于商业用途，不允许修改。
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png" alt="知识共享许可协议"></a><br>

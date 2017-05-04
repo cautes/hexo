@@ -14,7 +14,6 @@ widgets:
 - category
 - tagcloud
 - recent_posts
-- weixin
 - archive
 
 # Miscellaneous
@@ -25,7 +24,4 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
-
-# 配置关注微信公众号
-weixin: http://ww1.sinaimg.cn/small/67ab259fjw1f3j68qx11cj20760760t7.jpg
 

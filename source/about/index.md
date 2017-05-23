@@ -1,8 +1,8 @@
 title: 
 ---
-* [@齐谐](https://twitter.com/yanzhiao)
+* [Twitter](https://twitter.com/yanzhiao)
 
-* <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=jvfv4PTm5_-hzv--oO3h4w" style="text-decoration:none;">给我写信</a>
+* jack@caute.net
 
 * 欢迎关注微信公众号 Cautes
 

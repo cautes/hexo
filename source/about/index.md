@@ -2,7 +2,7 @@ title:
 ---
 * [Twitter](https://twitter.com/yanzhiao)
 
-* jack@caute.net
+* <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=juTv7eXO7e-7_uug4Ov6" style="text-decoration:none;">给我写信</a>
 
 * 欢迎关注微信公众号 Cautes
 

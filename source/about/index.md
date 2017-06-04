@@ -2,8 +2,6 @@ title:
 ---
 * [Twitter](https://twitter.com/yanzhiao)
 
-* <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=juTv7eXO7e-7_uug4Ov6" style="text-decoration:none;">给我写信</a>
-
-* 欢迎关注微信公众号 Cautes
+* <a href="mailto:jack@caute.net" target="_blank">Write to Me</a>
 
 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png" alt="知识共享许可协议"></a><br>

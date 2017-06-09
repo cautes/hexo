@@ -5,7 +5,7 @@
 # Site
 title: Caute
 subtitle: 
-description: 斯宾诺莎 政治哲学 伦理学 法律 新疆 维吾尔 伊斯兰 宗教。
+description: caute spinoza 斯宾诺莎 政治哲学 伦理学 法律 新疆 维吾尔 伊斯兰 宗教
 author: 齐谐
 language: zh-cn
 timezone:
@@ -76,6 +76,16 @@ tag_generator:
 
 category_generator: 
   per_page: 100
+
+# RSS
+plugin:
+- hexo-generator-feed
+
+# Feed Atom
+feed:
+type: atom
+path: atom.xml
+limit: 20
 
 # hexo sitemap
 sitemap:

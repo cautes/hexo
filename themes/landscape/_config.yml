@@ -15,6 +15,11 @@ widgets:
 - tagcloud
 - recent_posts
 - archive
+- emailist
+
+# SubNav
+subnav:
+rss: "/atom.xml"
 
 # Miscellaneous
 google_analytics: UA-72042404-1

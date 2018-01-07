@@ -1,6 +1,5 @@
 title: 
 ---
-* [Twitter](https://twitter.com/yanzhiao)
 
 * <a href="mailto:jack@caute.net" target="_blank">Write to Me</a>
 

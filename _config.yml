@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Caute
-subtitle: 
+title: CAUTE
+subtitle: I have laboured carefully, not to mock, lament, or execrate, but to understand human actions. —B. de Spinoza
 description: caute spinoza 斯宾诺莎 政治哲学 伦理学 法律 新疆 维吾尔 伊斯兰 宗教
 author: 齐谐
 language: zh-cn
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://caute.net
+url: https://caute.net
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

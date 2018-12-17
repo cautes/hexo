@@ -29,3 +29,13 @@ google_plus:
 fb_admins:
 fb_app_id:
 
+#gitalk settings
+gitalk:
+  enable: true
+  owner: cautes
+  repo: cautes.github.io 
+  admin: cautes
+  clientID: 00be5b58d4db21cf2f64
+  clientSecret: e63df28d88b7c897123a1c6adefabaf70b8050a9
+
+

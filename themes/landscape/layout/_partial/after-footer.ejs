@@ -57,37 +57,6 @@ var bigfa_scroll = {
         }
         draw(percentage / 100, ctx);
     },
-    backToTop: function($this) {
-        $this.click(function() {
-            jQuery("body,html").animate({
-                scrollTop: 0
-            },
-            800);
-            return false;
-        });
-    },
-    scrollHook: function($this, color) {
-        color = color ? color: "#000000";
-        $this.scroll(function() {
-            var docHeight = (jQuery(document).height() - jQuery(window).height()),
-            $windowObj = $this,
-            $per = jQuery(".per"),
-            percentage = 0;
-            defaultScroll = $windowObj.scrollTop();
-            percentage = parseInt((defaultScroll / docHeight) * 100);
-            var backToTop = jQuery("#backtoTop");
-            if (backToTop.length > 0) {
-                if ($windowObj.scrollTop() > 200) {
-                    backToTop.addClass("button--show");
-                } else {
-                    backToTop.removeClass("button--show");
-                }
-                $per.attr("data-percent", percentage);
-                bigfa_scroll.drawCircle("#backtoTopCanvas", percentage, color);
-            }
-
-        });
-    }
 }
 
 jQuery(document).ready(function() {

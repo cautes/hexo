@@ -39,4 +39,7 @@ gitalk:
   clientID: 00be5b58d4db21cf2f64
   clientSecret: e63df28d88b7c897123a1c6adefabaf70b8050a9
 
+# Online contact 
+daovoice: true
+daovoice_app_id: "6f37eb71"
 
